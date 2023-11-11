@@ -9,12 +9,9 @@
 ## Questions Answered
 
 1. **How many people are only partly vaccinated?**
-
 2. **How many people are fully vaccinated?**
 3. **What is the share of people not vaccinated over the population?**
-
 4. **Is there a relationship between vaccination rates and Gross Domestic Product (GDP) per capita?**
-
 5. **How does the vaccination rate vary across different regions?**
 
 ### How to Use
