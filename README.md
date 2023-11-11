@@ -3,6 +3,8 @@
 ### This Tableau dashboard provides visualizations and insights into COVID-19 vaccination data, focusing on various key metrics
 
 ![image](https://github.com/ImaneMdn/Covid-19-global-vaccine-tracker/assets/115882702/7b370839-fce7-45b5-8bd8-5560ea96711f)
+![image](https://github.com/ImaneMdn/Covid-19-global-vaccine-tracker/assets/115882702/5699e9d5-4f97-4cff-83c0-eea9fe924b18)
+
 
 ## Questions Answered
 
